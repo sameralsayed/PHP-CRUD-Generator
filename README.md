@@ -49,4 +49,4 @@ Pages created, add, edit, view, index with a database file and a CSS file
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/)
