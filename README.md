@@ -34,7 +34,7 @@ age
 name
 age
 ```
-Because I got pages, add, edit, view, index with a database file and a CSS file
+Pages created, add, edit, view, index with a database file and a CSS file
 
 # support us with crypto
 ```python
