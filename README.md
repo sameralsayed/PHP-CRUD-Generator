@@ -1,7 +1,6 @@
 # PHP CRUD Generator
 It does not require any experience, all you have to do is run it and start writing some lines. And you will get pages ready with the database
 
-[Buy Now](https://payhip.com/b/6EB5z)
 
 # install git
 
